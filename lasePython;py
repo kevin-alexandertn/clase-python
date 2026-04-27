@@ -1,0 +1,17 @@
+# python trabaje con IF simple
+"""
+palabra reservada (condicion):
+    sentenciaUNO
+    sentenciaDOS
+"""
+if (True):
+    print("hola")
+    print("como estas")
+
+if (False):
+    print("bien")
+    print("y usted")
+
+a = 5 ; b = 3
+if (a>b):
+    print("a es mayor que b")
