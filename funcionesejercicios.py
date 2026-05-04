@@ -48,7 +48,7 @@ y amigables para el usuario, y se deben manejar adecuadamente los casos de error
 por cero o la entrada de datos no válidos.
 
 Utilizar diseño de Interfaz de Usuario mediante la consola utilizando ASCII Art para hacer el menú 
-más atractivo visualmente.
+más atractivo visualmente.-----holh
 '''
 def sumar():
     a = int(input("Ingrese el primer número: "))
@@ -130,4 +130,7 @@ def menu():
 # Ejecutar el programa
 if __name__ == "__main__":
     menu()
+
+
+#andaond
     

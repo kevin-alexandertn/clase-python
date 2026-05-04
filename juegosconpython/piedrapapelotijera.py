@@ -34,7 +34,11 @@ while True:
         print("Entrada inválida. Intenta de nuevo.")
         continue
     
+<<<<<<< HEAD
     # Elección aleatoria de computadora
+=======
+    # Elección aleatoria de  computadora
+>>>>>>> ba25d737a7b49aaf8a39be110b12c178e4d20105
     computadora = random.choice(opciones)
     print(f"La computadora eligió: {computadora.capitalize()}")
     
