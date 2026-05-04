@@ -14,7 +14,7 @@ con caracteres ascci
 
 import random
 
-# Encabezado decorativo
+
 print("="*40)
 print(" JUEGO: PIEDRA, PAPEL O TIJERA ".center(40, "="))
 print("="*40)
@@ -34,7 +34,7 @@ while True:
         print("Entrada inválida. Intenta de nuevo.")
         continue
     
-    # Elección aleatoria de la computadora
+    # Elección aleatoria de  computadora
     computadora = random.choice(opciones)
     print(f"La computadora eligió: {computadora.capitalize()}")
     
