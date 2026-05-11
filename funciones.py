@@ -35,4 +35,4 @@ def calcular_area_rectangulo(base,altura):
     return area
 
 
-mi_area= calcular_area_
+mi_area= calcular_area_rectangulo
